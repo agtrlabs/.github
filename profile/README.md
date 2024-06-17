@@ -4,7 +4,6 @@
 🌈 Contribution guidelines - Since this is a project development group you have to be one step above of absolute zero developer?
 Interested building applications with Flutter with our team? [Join us at discord](https://discord.gg/pJvDyuA4sF)
 
-🍿 Fun fact: We have no affiliated members yet.
 
 <!-- 👩‍💻 I really like to utilize these packages and  useful resources:
 
